@@ -1,1 +1,1 @@
-resource aws
+resource  version 1

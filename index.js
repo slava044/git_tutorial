@@ -1,3 +1,5 @@
-provide 
-  aws
+provider aws {
+
+}
+  
   
